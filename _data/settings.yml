@@ -131,7 +131,7 @@ education:
       name: Licence ,
       date: "2023",
       organization: "LOME University",
-      url: "",
+      url: "https://etu.univ-lome.tg/",
     }
   - {
       name: Higher Secondary Certificat,
@@ -150,7 +150,7 @@ services:
       name: UI Design,
       icon: ti-palette,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
+      active: false, # Add true to select section
     }
   - {
       name: Software Engineering,
@@ -162,7 +162,7 @@ services:
       name: UX Design,
       icon: ti-vector,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: true, # Add true to select section
+      active: false, # Add true to select section
     }
   
 
