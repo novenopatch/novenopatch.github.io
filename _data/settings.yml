@@ -172,19 +172,19 @@ services:
 # Portfolio Home Section
 portfolio-home-items:
   - image: "assets/images/portfolio/signals.png"
-    url: "#"
+    url: "https://github.com/novenopatch/Signal-Apps"
 
   - image: "assets/images/portfolio/safe.png"
-    url: "#"
+    url: "https://github.com/novenopatch/MyPasswordManager"
 
   - image: "assets/images/portfolio/snake.png"
-    url: "#"
+    url: "https://github.com/novenopatch/pygame-test"
 
   - image: "assets/images/portfolio/space.png"
-    url: "#"
+    url: "https://github.com/novenopatch/pygame-test"
 
   - image: "assets/images/portfolio/superquiz.png"
-    url: "#"
+    url: "https://github.com/novenopatch/quizquiz"
 
 # Portfolio Page
 portfolio-label:
@@ -197,39 +197,45 @@ portfolio-label:
 
 portfolio-items:
   - image: "assets/images/portfolio/signals.png"
-    url: "#"
+    url: "https://github.com/novenopatch/Signal-Apps"
     portfolio-type:
       - type: "Mobile developement"
       - type: "design"
 
   - image: "assets/images/portfolio/safe.png"
-    url: "#"
+    url: "https://github.com/novenopatch/MyPasswordManager"
     portfolio-type:
       - type: "Mobile developement"
       - type: "design"
 
   - image: "assets/images/portfolio/snake.png"
-    url: "#"
+    url: "https://github.com/novenopatch/pygame-test"
     portfolio-type:
       - type: "Game developement"
 
   - image: "assets/images/portfolio/space.png"
-    url: "#"
+    url: "https://github.com/novenopatch/pygame-test"
     portfolio-type:
       - type: "Game developement"
 
   - image: "assets/images/portfolio/superquiz.png"
-    url: "#"
+    url: "https://github.com/novenopatch/quizquiz"
     portfolio-type:
       - type: "Mobile developement"
       - type: "Game developement"
       - type: "design"
 
-  - image: "assets/images/portfolio/item-5.png"
-    url: "#"
+  - image: "assets/images/portfolio/java-c.png"
+    url: "https://github.com/novenopatch/convertisseurTemp"
     portfolio-type:
+      - type: "Desktop developement"
       - type: "design"
-
+  - image: "assets/images/portfolio/javafx.png"
+    url: "https://github.com/novenopatch/safepasswordfx"
+    portfolio-type:
+      - type: "Desktop developement"
+      - type: "design"
+      - type: "illustration"
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
     portfolio-type:
@@ -242,10 +248,7 @@ portfolio-items:
       - type: "illustration"
       - type: "branding"
 
-  - image: "assets/images/portfolio/item-7.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
+ 
 
 #-------------------------------
 # Testimonials Section
