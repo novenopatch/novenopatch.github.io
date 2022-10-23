@@ -2,14 +2,14 @@
 #-------------------------------
 # General Site Settings
 
-title: Kross
+title: H20J
 logo:
-author: themefisher
-description: this is meta description
-email: steve.fruits@email.com
-phone: +880 2544 658 256
-address: 125/A, CA Commercial Area, California, USA
-copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
+author: HOMAWOO Joseph
+description: This appliction is my portfolio
+email: homawoojoseph@gmail.com
+phone: +22899152480
+address: LOME,TOGO
+copyright: Copyright &copy; 2022 powered by [Themefisher](https://themefisher.com) 
 
 menu:
   - { name: About, link: "/about" }
@@ -25,30 +25,30 @@ menu:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-google-analytics: # UA-XXXXXX-X
+google-analytics:  UA-183646927-1
 
 #-------------------------------
 # Comment Section (Disqus)
 
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: jerrykel
 
 #-------------------------------
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Christoher <br> UX designer
+  hero-title: Hi! I’m <br> Joseph HOMAWOO <br> Developer back-end and UX designer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
-  - { icon: "ti-instagram", link: "#" }
-  - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-facebook", link: "https://web.facebook.com/fernando.vilarios" }
+  - { icon: "ti-instagram", link: "https://www.instagram.com/_jerrykel/" }
+  - { icon: "ti-twitter", link: "https://twitter.com/Jerrykel_j" }
+  - { icon: "ti-github", link: "https://github.com/novenopatch/" }
 
 #-------------------------------
 # About (Section and Page)
 
 # About Section
-blurb: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+blurb: 
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -59,39 +59,40 @@ blurb-btn-name: know more
 work-process:
   - title: "Research and Plan"
     icon: "assets/images/icons/plan.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
+    content: "TODO 1"
   - title: "Design and Develop"
     icon: "assets/images/icons/design.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "TODO 2"
 
   - title: "Deliver"
     icon: "assets/images/icons/print.png"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content: "TODO2"
 
 # My Team Section
 team:
-  - title: "Jack Schenziwe"
+  - title: "Joseph HOMAWOO"
     image: "assets/images/team/member-1.png"
-    designation: "Project Manager"
+    designation: "Back-End Developer && UX Designer"
+    linkedin: ""
 
-  - title: "Julias Carlie"
-    image: "assets/images/team/member-2.png"
-    designation: "Web Developer"
 
   - title: "John Doe"
     image: "assets/images/team/member-3.png"
-    designation: "Designer"
+    designation: "Designer and Front-End Developer"
 
 #-------------------------------
 # Skills Section
 
 skills-title: Skills
 skills:
-  - { name: Web Design, color: "#fdb157", value: "90%" }
-  - { name: Logo Design, color: "#9473e6", value: "60%" }
-  - { name: After Effects, color: "#bdecf6", value: "80%" }
-  - { name: Web App, color: "#ffbcaa", value: "70%" }
+  - { name: Java/Kotlin & Javafx, color: "#5473e6", value: "80%" }
+  - { name: Android & Flutter, color: "#fdb157", value: "70%" }
+  - { name: PHP & Symfony , color: "#fbb157", value: "80%" }
+  - { name: Python & Django  , color: "#9473e6", value: "80%" }
+  - { name: HTML/CSS/JS , color: "#fcbcaa", value: "70%" }
+  - { name: Git & Docker , color: "#ffccaa", value: "80%" }
+  - { name : Firebase and Aws, color: "#f473e6", value: "60%"}
+  - { name: Adobe Xd, color: "#bdecf6", value: "70%" }
 
 #-------------------------------
 # Exprerience Section
@@ -99,22 +100,25 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Junior UX Designer,
-      icon: "icon-1.png",
-      date: "Jan 2007 - Feb 2009",
-      organization: "WEBEX",
-    }
-  - {
-      name: UX & UI Designer,
+      name: Technician Software,
       icon: "icon-2.png",
-      date: "Mar 2009 - Aug 2014",
-      organization: "AUGMEDIX",
+      date: "JAN 2020 - Dec 2020",
+      organization: "SIMPLEMENT VOTRE",
+      url: "",
     }
   - {
-      name: Senior UI Designer,
-      icon: "icon-3.png",
-      date: "Sep 2014 - Present",
-      organization: "THEMEFISHER",
+      name: Junior UX & UI Designer,
+      icon: "icon-2.png",
+      date: "JAN 2021 - Feb 2021",
+      organization: "SANAM-Group",
+      url: "",
+    }
+  - {
+      name: Back-End and Mobile Developer,
+      icon: "icon-2.png",
+      date: "Aug 2021 - Present",
+      organization: "SANAM-Group",
+      url: "",
     }
 
 #-------------------------------
@@ -123,25 +127,18 @@ experience:
 education-title: Education
 education:
   - {
-      name: Marters in UX Design,
-      date: "2006",
-      organization: "Masassusets Institute of Technology",
-    }
-  - {
-      name: Honours in Fine Arts,
-      date: "2004",
-      organization: "Harvard University",
+      name: Licence ,
+      date: "2023",
+      organization: "LOME University",
+      url: "",
     }
   - {
       name: Higher Secondary Certificat,
-      date: "2000",
-      organization: "Cardiff School",
+      date: "2019",
+      organization: "LOME City High School",
+      url: "",
     }
-  - {
-      name: Secondary School Certificate,
-      date: "1998",
-      organization: "Cardiff School",
-    }
+
 
 #-------------------------------
 # Services Section
@@ -152,7 +149,13 @@ services:
       name: UI Design,
       icon: ti-palette,
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
+      active: true, # Add true to select section
+    }
+  - {
+      name: Software Engineering,
+      icon: ti-panel,
+      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      active: true, # Add true to select section
     }
   - {
       name: UX Design,
@@ -160,66 +163,66 @@ services:
       description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
       active: true, # Add true to select section
     }
-  - {
-      name: Interaction Design,
-      icon: ti-panel,
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-      active: ,# Add true to select section
-    }
+  
 
 #-------------------------------
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
 portfolio-home-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/signals.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/safe.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-3.png"
+  - image: "assets/images/portfolio/snake.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-4.png"
+  - image: "assets/images/portfolio/space.png"
     url: "#"
 
-  - image: "assets/images/portfolio/item-5.png"
+  - image: "assets/images/portfolio/superquiz.png"
     url: "#"
 
 # Portfolio Page
 portfolio-label:
+  - { title: "Mobile App ", type: "Mobile developement" }
+  - { title: "Dektop App ", type: "Desktop developement" }
+  - { title: "Web App ", type: "Web developement" }
+  - { title: "Game", type: "Game developement" }
   - { title: "UI/UX Design", type: "design" }
-  - { title: "BRANDING", type: "branding" }
   - { title: "ILLUSTRATION", type: "illustration" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/signals.png"
     url: "#"
     portfolio-type:
+      - type: "Mobile developement"
       - type: "design"
-      - type: "illustration"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/safe.png"
     url: "#"
     portfolio-type:
-      - type: "branding"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "illustration"
-
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
+      - type: "Mobile developement"
       - type: "design"
-      - type: "branding"
 
-  - image: "assets/images/portfolio/item-8.png"
+  - image: "assets/images/portfolio/snake.png"
     url: "#"
     portfolio-type:
-      - type: "illustration"
+      - type: "Game developement"
+
+  - image: "assets/images/portfolio/space.png"
+    url: "#"
+    portfolio-type:
+      - type: "Game developement"
+
+  - image: "assets/images/portfolio/superquiz.png"
+    url: "#"
+    portfolio-type:
+      - type: "Mobile developement"
+      - type: "Game developement"
+      - type: "design"
 
   - image: "assets/images/portfolio/item-5.png"
     url: "#"
@@ -252,22 +255,13 @@ testimonial-items:
     designation: "CEO, Funder"
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-
-  - name: "Jesica Gomez"
-    image: "assets/images/testimonial/client-1.png"
-    designation: "CEO, Funder"
-    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 #-------------------------------
 # Client Slider Section
 
 client-slider-items:
-  - logo: "assets/images/clients-logo/client-logo-1.png"
-    url: "#"
+  - logo: "assets/images/clients-logo/sanam-logo.png"
+    url: "www.sanam-group.com"
 
   - logo: "assets/images/clients-logo/client-logo-2.png"
     url: "#"
@@ -300,4 +294,4 @@ client-slider-items:
 # Contact Section
 
 contact-title: Contact Info
-contact-email: steve.fruits@email.com
+contact-email: homawoojoseph@gmail.com

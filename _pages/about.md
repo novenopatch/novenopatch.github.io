@@ -1,9 +1,10 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
+author: Joseph Homawoo
+image: assets/images/about/author.jpeg
 signature: assets/images/about/signature.png
+wakatime_username : ""
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
