@@ -70,7 +70,7 @@ work-process:
 # My Team Section
 team:
   - title: "Joseph HOMAWOO"
-    image: "assets/images/about/author.jpeg"
+    image: "assets/images/team/member-1.jpg"
     designation: "Back-End Developer && UX Designer"
     linkedin: ""
 
