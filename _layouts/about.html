@@ -41,16 +41,22 @@ layout: default
 <!-- /about -->
 <section class="section">
   <div class="container">
-    <div class="card">
-      <h1>Coding Activity</h1>
-    
-      {%- include coding_activity.html -%}
-    </div>
-  </div>
-</section>
-{% if site.wakatime_username %}
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">My Coding Activity</h2>
+      </div>
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card">
+          
+        
+          {%- include coding_activity.html -%}
+        </div>
+      </div>
+      </div>
 
-{% endif %}
+    </div>
+   
+</section>
 {% include work-process-section.html %}
 
 {% include team-section.html %}
