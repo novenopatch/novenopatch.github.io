@@ -39,7 +39,6 @@ layout: default
   </div>
 </section>
 <!-- /about -->
-{% if site.wakatime_username %}
 <section class="section">
   <div class="container">
     <div class="card">
@@ -49,6 +48,8 @@ layout: default
     </div>
   </div>
 </section>
+{% if site.wakatime_username %}
+
 {% endif %}
 {% include work-process-section.html %}
 
