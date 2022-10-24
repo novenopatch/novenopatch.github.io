@@ -1,6 +1,15 @@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://novenopatch.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
+
 # Build settings
 markdown: kramdown
 permalink: pretty
