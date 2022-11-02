@@ -9,7 +9,7 @@ description: This appliction is my portfolio
 email: homawoojoseph@gmail.com
 phone: +228 99152480
 address: LOME,TOGO
-copyright: Copyright &copy; 2022 powered by [Jekyll && kross-jekyll](https://jekyllrb.com) 
+copyright: Copyright &copy; 2022 powered by [Jekyll & kross-jekyll](https://jekyllrb.com) 
 
 menu:
   - { name: About, link: "/about" }
