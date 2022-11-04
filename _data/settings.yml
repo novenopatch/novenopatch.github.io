@@ -5,7 +5,7 @@
 title: H20J
 logo:
 author: HOMAWOO Joseph
-description: This appliction is my portfolio
+description: This application is my portfolio
 email: homawoojoseph@gmail.com
 phone: +228 99152480
 address: LOME,TOGO
@@ -76,9 +76,9 @@ team:
     linkedin: ""
 
 
-  - title: "John Doe"
-    image: "assets/images/team/member-3.png"
-    designation: "Designer and Front-End Developer"
+ # - title: "John Doe"
+ #   image: "assets/images/team/member-3.png"
+ #   designation: "Designer and Front-End Developer"
 
 #-------------------------------
 # Skills Section
