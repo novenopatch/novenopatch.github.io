@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 
-title: H20J
+title: HKAJ
 logo:
 author: HOMAWOO Joseph
 description: This application is my portfolio
@@ -13,7 +13,7 @@ copyright: Copyright &copy; 2022 powered by [Jekyll & kross-jekyll](https://jeky
 
 menu:
   - { name: About, link: "/about" }
-  - { name: Blog, link: "/blog" }
+ # - { name: Blog, link: "/blog" }
   - { name: Portfolio, link: "/portfolio" }
   - { name: Contact, link: "/contact" }
   - { name: CV, link: "/cv" }
