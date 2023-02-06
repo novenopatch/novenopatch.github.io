@@ -112,21 +112,21 @@ experience:
       icon: "icon-2.png",
       date: "JAN 2021 - Feb 2021",
       organization: "SANAM-Group",
-      url: "www.sanam-group.com",
+      url: "https://www.sanam-group.com",
     }
   - {
       name: Back-End & Mobile Developer,
       icon: "icon-2.png",
       date: "Aug 2021 - Present",
       organization: "SANAM-Group",
-      url: "www.sanam-group.com",
+      url: "https://www.sanam-group.com",
     }
   - {
       name: Developer full stack ,
       icon: "icon-1.png",
       date: "Dec 2022 - Jan 2023",
       organization: "lifeef",
-      url: "lifeef-tg.com",
+      url: "https://lifeef-tg.com",
     }
 
 #-------------------------------
