@@ -121,6 +121,13 @@ experience:
       organization: "SANAM-Group",
       url: "www.sanam-group.com",
     }
+  - {
+      name: Developer full stack ,
+      icon: "icon-1.png",
+      date: "Dec 2022 - Jan 2022",
+      organization: "lifeef",
+      url: "lifeef-tg.com",
+    }
 
 #-------------------------------
 # Education Section
