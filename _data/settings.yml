@@ -90,6 +90,7 @@ skills:
   - { name: PHP & Symfony , color: "#fbb157", value: "80%" }
   - { name: Python & Django  , color: "#9473e6", value: "80%" }
   - { name: HTML/CSS/JS , color: "#fcbcaa", value: "70%" }
+  - { name: React , color: "#fcccaa", value: "50%" }
   - { name: Git & Docker , color: "#ffccaa", value: "80%" }
   - { name : Firebase and Aws, color: "#f473e6", value: "60%"}
   - { name: Adobe Xd, color: "#bdecf6", value: "70%" }
